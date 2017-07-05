@@ -1,0 +1,4 @@
+CREATE TABLE One (
+ID int,
+Name nvarchar(max)
+)
